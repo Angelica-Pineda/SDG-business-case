@@ -10,7 +10,7 @@ The pipeline follows a modular Medallion Architecture (Bronze → Silver → Gol
 
 The visual architecture of the end-to-end data flow is shown below:
 
-![Data Ingestion & Pipeline Architecture](diagramSDG.jpg)
+![Data Ingestion & Pipeline Architecture](diagramSDG.png)
 
 ### Operational Layers
 
